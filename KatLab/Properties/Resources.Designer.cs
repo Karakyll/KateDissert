@@ -1333,16 +1333,6 @@ namespace KatLab.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap baby {
-            get {
-                object obj = ResourceManager.GetObject("baby", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap baby_body {
             get {
                 object obj = ResourceManager.GetObject("baby_body", resourceCulture);
@@ -1457,16 +1447,6 @@ namespace KatLab.Properties {
             get {
                 object obj = ResourceManager.GetObject("Martin_Berube_Animal_Owl", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap no {
-            get {
-                object obj = ResourceManager.GetObject("no", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
