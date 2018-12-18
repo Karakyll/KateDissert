@@ -117,19 +117,18 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="textBox1.Text" xml:space="preserve">
-    <value>Электронное средство обучения (ЭСО) – это средство, работающее с
+  <data name="label1.Text" xml:space="preserve">
+    <value>Электронное средство обучения (ЭСО) - это средство, работающее с
 использованием компьютерной и телекоммуникационной техники и
 применяемое непосредственно в обучении и воспитании школьников.
 
 ЭСО «Повторяй-ка» разработан для учащихся IV классов с
 интеллектуальной недостаточностью.
 Задания подобраны в соответствии с учебной программой
-«Социально-бытовая ориентировка для I-V ».
+«Социально-бытовая ориентировка для I-V классов».
 
 «Повторяй-ка» разработан для наиболее прочного усвоения
-программного материала по темам: «Одежда. Обувь» и служит
-непосредственно практикумом.</value>
+программного материала по темам: «Одежда. Обувь».</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">

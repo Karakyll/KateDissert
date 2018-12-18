@@ -73,11 +73,11 @@
             // 
             this.labelBlock2Task.AutoSize = true;
             this.labelBlock2Task.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelBlock2Task.Location = new System.Drawing.Point(508, 102);
+            this.labelBlock2Task.Location = new System.Drawing.Point(423, 106);
             this.labelBlock2Task.Name = "labelBlock2Task";
-            this.labelBlock2Task.Size = new System.Drawing.Size(606, 37);
+            this.labelBlock2Task.Size = new System.Drawing.Size(752, 37);
             this.labelBlock2Task.TabIndex = 6;
-            this.labelBlock2Task.Text = "Покажи, куда надо надевать эту одежду:";
+            this.labelBlock2Task.Text = "Покажи, на какую часть тела надевают эту одежду:";
             // 
             // pictureBoxTopLeft
             // 

@@ -93,10 +93,11 @@
             // labelBlock1Task
             // 
             this.labelBlock1Task.AutoSize = true;
-            this.labelBlock1Task.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelBlock1Task.BackColor = System.Drawing.Color.Transparent;
+            this.labelBlock1Task.Font = new System.Drawing.Font("Microsoft Sans Serif", 21F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelBlock1Task.Location = new System.Drawing.Point(12, 27);
             this.labelBlock1Task.Name = "labelBlock1Task";
-            this.labelBlock1Task.Size = new System.Drawing.Size(1046, 37);
+            this.labelBlock1Task.Size = new System.Drawing.Size(965, 32);
             this.labelBlock1Task.TabIndex = 18;
             this.labelBlock1Task.Text = "Отбери картинки с изображением одежды, которая нуждается в стирке";
             // 

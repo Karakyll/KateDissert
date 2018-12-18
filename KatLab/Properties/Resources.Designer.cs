@@ -1469,5 +1469,16 @@ namespace KatLab.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap powerpoint_background_for_school_cortezcolorado_with_regard_to_powerpoint_backgrounds_school {
+            get {
+                object obj = ResourceManager.GetObject("powerpoint_background_for_school_cortezcolorado_with_regard_to_powerpoint_backgro" +
+                        "unds_school", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

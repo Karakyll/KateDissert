@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Martin-Berube-Animal-Owl.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -135,160 +138,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1а.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1б.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1в+.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2+ .jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2а.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2б.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2в.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3+.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3а.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3б.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\4.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\4+.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\4а.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\4б.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\5.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\5+.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\5а.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\5б.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\6.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\6а+.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\6б.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\6в.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\7.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\7+.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\7а.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\7б.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\7г.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\8.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\8+.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\8а.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\8б.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\8в.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\9.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\9+.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\9а.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\9б.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\9в.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\10.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\10+.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\10а.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\10б.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\10г.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\no.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\ok.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3б1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3б11.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3б111.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3б1111.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\КУКЛА.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\b3_1.jpg" />
@@ -387,9 +237,6 @@
     <None Include="Resources\b2t6p1.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\b2t6p2.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\b2t6p3.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -405,16 +252,10 @@
     <None Include="Resources\b2t7p3.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\b2t7p4.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\b2t8p1.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\b2t8p2.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\b2t8p3True.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\b2t8p4.jpg" />
@@ -448,9 +289,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\good.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\not_bad.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\not_bad.png" />
@@ -727,6 +565,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Martin-Berube-Animal-Owl.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\powerpoint-background-for-school-cortezcolorado-with-regard-to-powerpoint-backgrounds-school.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
